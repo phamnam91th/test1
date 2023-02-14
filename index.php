@@ -15,13 +15,12 @@
             </div>
             <nav>
                 <ul>
-                    <li><a href="#">HOME</a></li>
+                    <li>HOME</li>               
                     <li>ABOUT</li>
                     <li>PRODUCT</li>
                     <li>NEW</li>
                     <li>CONTACT</li>
                     <li>BLOG</li>
-                    <img src="./613b06fd90d68.jpg" alt="">
                 </ul>
             </nav>
         </header>
